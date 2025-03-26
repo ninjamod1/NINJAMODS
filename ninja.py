@@ -9,7 +9,7 @@ attack_in_progress = False
 current_attack = None  # Store details of the current attack
 attack_history = []  # Store attack logs
 
-TELEGRAM_BOT_TOKEN = '7607251224:AAFt6hUWkTLwEJIoyK_hsmJoGYtxAL5ZyyU'  # Replace with your bot token
+TELEGRAM_BOT_TOKEN = '7607251224:AAFpmCYB6r8HaZNa3Eq9gPpzKhY1sTeM48g'  # Replace with your bot token
 ADMIN_USER_ID = 1240179115
 MONGO_URI = "mongodb+srv://donmourya248:Santosh700@redhat.drq43.mongodb.net/RedHat?retryWrites=true&w=majority&appName=RedHat"
 DB_NAME = "ninjaraz"
